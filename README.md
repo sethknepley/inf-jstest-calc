@@ -10,3 +10,9 @@ Test for the JS Level 1 assessment for Infinity Dev Program
 5. It is not necessary to allow users to add multiple numbers with just pressing the operation buttons, if you do implement that feature then it's will get bonus points.
 6. The calculator does not need to support fractions or divisions.
 
+Tips:
+
+1. Remember to use parseInt() before you add/subtract/multiply the values https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt
+2. Use event listeners by using `addEventListener` https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
+
+
